@@ -313,3 +313,21 @@ No license file is confirmed in the repository. Add a `LICENSE` file (for exampl
 **Mannala Abiram**
 
 <!-- TODO: add contact links (GitHub, LinkedIn, email). -->
+
+## Contributing
+
+1. Fork the repository and create a branch: `git checkout -b feat/short-description`.
+2. Keep notebook changes reproducible: run all cells top to bottom before committing, and clear outputs that contain personal data.
+3. Keep training features and the app form in sync.
+4. Use clear commit messages, preferably [Conventional Commits](https://www.conventionalcommits.org/).
+5. Open a pull request describing the change and how you validated it.
+
+## License
+
+No license file is confirmed in the repository. Add a `LICENSE` file (for example MIT) to the project root and link it here.
+
+## Author
+
+**Mannala Abiram**
+
+<!-- TODO: add contact links (GitHub, LinkedIn, email). -->
